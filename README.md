@@ -1,4 +1,4 @@
-# Heart Disease Classification
+# Heart Disease Prediction
 
 In this repository,  I work on a binary classification problem in which we need to predict a value of the variable “TenYearCHD” (zero or one) that shows whether a patient will develop a heart disease.  The performance criteria I use is the ROC AUC Score.
 The methods I use are:
